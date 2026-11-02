@@ -1,5 +1,3 @@
-# Description
-Play the original Resident Evil 4 with 2 player coop. The current release is in testing and only the village segment of the game is fully playable. Splitscreen is not supported currently.
 # Installation instructions
 Download latest release and drag the contents of the archive into the Bin32 directory of your game installation. bio4_multi.exe is provided for multi instance support and has the 4gb patch applied. You should launch the game through this exe if your original bio4.exe is not 4gb patched.
 # Hosting & Joining
