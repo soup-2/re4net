@@ -5,7 +5,7 @@ Use the "MULTIPLAYER" button in the main menu. Your steam friends and LAN sessio
 # Saving
 The host can save the multiplayer game by interacting with a typewriter or using the chapter end screen to save. There is also a force save button in the host GUI although you should prefer saving normally. Saved multiplayer data is stored in Bin32/re4net/saved. Do not alter or delete the saved files or you risk losing your save data.
 # Mods
-Do not run any mods and make sure you are using unaltered files from steam. The logs report if any game files are missing or modified. Mod support will come at a later date.
+Do not run any mods and use a fresh steam install with no extra files other than the re4net mod files.
 # Reporting A Bug
 See how to report a bug in the #bug-report forum in the discord.
 [discord.gg/dkEuvsZ4gW](https://discord.com/invite/dkEuvsZ4gW)
